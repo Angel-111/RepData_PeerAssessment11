@@ -1,3 +1,9 @@
+##Here is the link for published htm file for PA1_template.html
+
+http://rpubs.com/Angel-111/566401
+=============================================
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
